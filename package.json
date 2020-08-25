@@ -1,0 +1,16 @@
+{
+  "name": "GDWS-Discord-Bot",
+  "version": "1.0.0",
+  "description": "This bot for GDWS not same like UBGD by Alex and Open GDWS Bot by SMJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "RPD",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "snekfetch": "^4.0.4"
+  }
+}
